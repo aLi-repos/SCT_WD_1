@@ -287,11 +287,10 @@
     bottom: 20px;
     right: 20px;
     background-color: #f89015;
-    color: rgb(250, 250, 250);
     border: none;
     border-radius: 50%;
-    width: 50px;
-    height: 50px;
+    width: 60px;
+    height: 60px;
     display: flex;
     align-items: center;
     justify-content: center;
